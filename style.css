@@ -1,0 +1,33 @@
+body {
+    background-color: #5E0B15;
+}
+
+nav {
+    background-color: #9B2308;
+}
+
+.navbar-nav {
+    background-color: #9B2308;
+}
+
+a {
+    color: #F6DAB6;
+     text-decoration: none;
+}
+p {
+    color: #DFDFDD;
+}
+.active {
+    color: #5E0808
+}
+
+.hidden-text {
+    display: none;
+}
+
+.hover-area:hover .hidden-text {
+    display: block;
+}
+.card {
+    background-color: #413D20;
+}
