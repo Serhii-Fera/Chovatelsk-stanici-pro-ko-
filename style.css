@@ -1,5 +1,5 @@
 body {
-    background-color: #5E0B15;
+    background-color: #36060b;
 }
 
 nav {
@@ -9,18 +9,22 @@ nav {
 .navbar-nav {
     background-color: #9B2308;
 }
-
+footer {
+    background-color: #9B2308
+}
 a {
     color: #F6DAB6;
      text-decoration: none;
 }
 p {
-    color: #DFDFDD;
+    color: #EDC5C5;
 }
-.active {
-    color: #5E0808
+li {
+    color: #EDC5C5
 }
-
+label {
+    color: #EDC5C5;
+}
 .hidden-text {
     display: none;
 }
